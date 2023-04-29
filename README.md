@@ -17,8 +17,8 @@
  <!--  <&theme=monokai> -->
 <p align="center">
  <h1> my github Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=puria-asr&show_icons=true&include_all_commits=true" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puria-asr&layout=compact&langs_count=12"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="masoud anaraki GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/>
  
  <br/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>

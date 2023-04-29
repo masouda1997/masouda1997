@@ -7,7 +7,6 @@
 </div>
 
  ## My Tech Stack 💻
- ### Languages and Tools:
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -39,7 +38,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a> 
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -51,13 +49,19 @@
   </a> 
 </p>
 
+## Find me aroun the web
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="[#](https://stackoverflow.com/users/13231610/masoud-anaraki)"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
+</p>
 
  <!--  <&theme=monokai> -->
+ ## my github Stats
 <p align="center">
-  ## my github Stats
   <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="Masoud GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>
 </p>
 

@@ -1,11 +1,11 @@
-### Hey everybody👋 I'm Masoud a Front-end Developer💻
-
-<h3 align="center">Languages and Tools:</h3>
+<div ALIGN="center">
+  ### Hi guys I'm Masoud 👋
+</div>
 
  <!--  <&theme=monokai> -->
 <p align="center">
- <h1> my github Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="masoud anaraki GitHub stats" /><br />
+  <h1> my github Stats</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="Masoud GitHub stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>
 </p>

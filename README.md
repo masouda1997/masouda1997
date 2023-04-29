@@ -6,6 +6,14 @@
   </p>
 </div>
 
+## Find me aroun the web
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
+</p>
+
  ## My Tech Stack 💻
 <div> 
   <p align="center"> 
@@ -23,8 +31,7 @@
    </a>
    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
      <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three js" width="40" height="40"/> 
-   </a>
-   
+   </a> 
   </p>
    <p align="center">
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
@@ -61,14 +68,6 @@
     </a>
   </p>  
 </div>
-
-## Find me aroun the web
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
-</p>
 
  <!--  <&theme=monokai> -->
  ## my github Stats

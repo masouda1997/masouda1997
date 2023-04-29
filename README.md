@@ -1,5 +1,5 @@
-<div align="left">
-  ## Hi guys I'm Masoud 👋
+## Hi guys I'm Masoud 👋
+<div align="left">  
   <p>
     🔸I'm a front-end developer by now 👨🏽‍💻<br/>
     🔸doing my best to become full-stack developer😉

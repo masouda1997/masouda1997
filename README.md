@@ -54,28 +54,16 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="[#](https://stackoverflow.com/users/13231610/masoud-anaraki)"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
+    <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
 </p>
 
  <!--  <&theme=monokai> -->
  ## my github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="Masoud GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="Masoud GitHub stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/> 
 </p>
 
 <!--
 **masouda1997/masouda1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -9,9 +9,9 @@
 ## Find me aroun the web
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br />
-    <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />
-    <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20-000000?style=flat&logo=stackoverflow"/></a>
+  <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />
+  <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br />
+  <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20-000000?style=flat&logo=stackoverflow"/></a>
 </p>
 
  ## My Tech Stack 💻

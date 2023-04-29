@@ -78,5 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/> 
 </p>
 
+![mishmanners snake gif](https://github.com/masouda1997/masouda1997/output/github-contribution-grid-snake.svg)
 <!--
 **masouda1997/masouda1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

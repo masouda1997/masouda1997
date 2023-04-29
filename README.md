@@ -6,7 +6,7 @@
   </p>
 </div>
 
-## Find me aroun the web
+## Find me around the Web
 
 <p align="left">
   <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />

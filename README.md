@@ -1,4 +1,4 @@
-## Hi guys I'm Masoud 👋
+# Hi guys I'm Masoud 👋
 <div align="left">  
   <p>
     🔸I'm a front-end developer by now 👨🏽‍💻<br/>
@@ -6,8 +6,7 @@
   </p>
 </div>
 
-## Find me around the Web
-
+## Find me around the Web 🌍
 <p align="left">
   <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />
   <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br />

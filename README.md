@@ -1,15 +1,15 @@
 <div align="left">
-  <h2>Hi guys I'm Masoud 👋</h2> 
+  ## Hi guys I'm Masoud 👋
   <p>
-    I'm a front-end developer by now 👨🏽‍💻<br/>
-    doing my best to become full-stack developer😉
+    🔸I'm a front-end developer by now 👨🏽‍💻<br/>
+    🔸doing my best to become full-stack developer😉
   </p>
 </div>
 
- # My Tech Stack 💻
+ ### My Tech Stack 💻
  <!--  <&theme=monokai> -->
 <p align="center">
-  <h1> my github Stats</h1>
+  ## my github Stats
   <img src="https://github-readme-stats.vercel.app/api?username=masouda1997&show_icons=true&include_all_commits=true" alt="Masoud GitHub stats" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&layout=compact&langs_count=12"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>

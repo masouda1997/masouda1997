@@ -1,5 +1,5 @@
-<div ALIGN="center">
-  ### Hi guys I'm Masoud 👋
+<div align="center">
+  <h2>Hi guys I'm Masoud 👋</h2> 
 </div>
 
  <!--  <&theme=monokai> -->

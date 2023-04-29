@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puria-asr&layout=compact&langs_count=12"/>
  
  <br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=puria-asr"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=masouda1997"/>
 </p>
 
 <!--

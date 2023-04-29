@@ -1,7 +1,7 @@
 <div align="left">
   <h2>Hi guys I'm Masoud 👋</h2> 
-  <p>
-    I'm a front-end developer by now 👨🏽‍💻&nbsp;
+  <p style="color:red;">
+    I'm a front-end developer by now 👨🏽‍💻
     doing my best to become full-stack developer😉
   </p>
 </div>

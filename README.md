@@ -1,12 +1,12 @@
 <div align="left">
   <h2>Hi guys I'm Masoud 👋</h2> 
-  <p style="color:red;">
-    I'm a front-end developer by now 👨🏽‍💻
+  <p>
+    I'm a front-end developer by now 👨🏽‍💻<br/>
     doing my best to become full-stack developer😉
   </p>
 </div>
 
- ## My Tech Stack 💻
+ # My Tech Stack 💻
  <!--  <&theme=monokai> -->
 <p align="center">
   <h1> my github Stats</h1>

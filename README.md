@@ -1,7 +1,12 @@
-<div align="center">
+<div align="left">
   <h2>Hi guys I'm Masoud 👋</h2> 
+  <p>
+    I'm a front-end developer by now 👨🏽‍💻&nbsp;
+    doing my best to become full-stack developer😉
+  </p>
 </div>
 
+ ## My Tech Stack 💻
  <!--  <&theme=monokai> -->
 <p align="center">
   <h1> my github Stats</h1>

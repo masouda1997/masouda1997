@@ -82,11 +82,8 @@
   <img src="https://github.com/masouda1997/masouda1997/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-
----
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=masoauda1997&icon=0&color=5)](https://visitcount.itsvg.in)
-</p>
+[![](https://visitcount.itsvg.in/api?id=masoauda1997&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

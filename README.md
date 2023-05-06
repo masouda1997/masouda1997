@@ -76,12 +76,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masouda1997&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <img src="https://github.com/masouda1997/masouda1997/blob/output/github-contribution-grid-snake.svg">
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=masoauda1997&icon=0&color=5)](https://visitcount.itsvg.in)
 
 

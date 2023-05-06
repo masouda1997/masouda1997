@@ -76,15 +76,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masouda1997&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=masouda1997&icon=0&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align="center">
+  <img src="https://github.com/masouda1997/masouda1997/blob/output/github-contribution-grid-snake.svg">
+</p>
 
-![masouda1997 snake gif](https://github.com/masouda1997/masouda1997/output/github-contribution-grid-snake.svg)
-<!--
-**masouda1997/masouda1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

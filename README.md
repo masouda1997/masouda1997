@@ -6,14 +6,14 @@
   </p>
 </div>
 
-##🌍 Find me around the Web 
+## 🌍 Find me around the Web 
 <p align="left">
   <a href="mailto:masoud30376@gmail.com"><img src="https://img.shields.io/badge/-masoud30376@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />
   <a href="https://www.linkedin.com/in/masoud-anaraki/"><img src="https://img.shields.io/badge/-Masoud Anaraki-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><br />
   <a href="https://stackoverflow.com/users/13231610/masoud-anaraki"><img src="https://img.shields.io/badge/-Masoud%20Anaraki-000000?style=flat&logo=stackoverflow"/></a>
 </p>
 
- ##💻 My Tech Stack 
+ ## 💻 My Tech Stack 
 <div> 
   <p align="center"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -70,7 +70,7 @@
 
  <!--  <&theme=monokai> -->
 
-##📊 GitHub Stats 
+## 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=masouda1997&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masouda1997&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masouda1997&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

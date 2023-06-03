@@ -62,8 +62,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>  
-     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+     <a href="https://wordpress.org" target="_blank" rel="noreferrer"> 
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dwordpress&psig=AOvVaw0oXr-Yv_5T-wOLaB3SyebB&ust=1685906844792000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi8vMbqp_8CFQAAAAAdAAAAABAZ" alt="wordpress" width="40" height="40"/> 
     </a>
   </p>  
 </div>

@@ -2,7 +2,7 @@
 <div align="left">  
   <p>
     🔸I'm a front-end developer by now 👨🏽‍💻<br/>
-    🔸doing my best to become full-stack developer😉
+    🔸doing my best to become a Full-stack developer😉
   </p>
 </div>
 
@@ -19,7 +19,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="no-referrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">

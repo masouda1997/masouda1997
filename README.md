@@ -17,7 +17,7 @@
 <div> 
   <p align="center"> 
     <a href="https://www.python.org/" target="_blank" rel="no-referrer"> 
-     <img src="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg" alt="javascript" width="40" height="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="javascript" width="40" height="40"/>
    </a>
     
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer"> 
@@ -28,6 +28,9 @@
    </a>
    <a href="https://reactjs.org/" target="_blank" rel="no-referrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+   </a>  
+   <a href="https://www.djangoproject.com/" target="_blank" rel="no-referrer">
+     <img src="https://img1.pnghut.com/21/5/24/H3DtZejy1K/logo-web-development-programmer-green-tutorial.jpg" alt="react" width="40" height="40"/> 
    </a>  
    <a href="https://nextjs.org/" target="_blank" rel="no-referrer">
      <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next.js" width="40" height="40"/> 

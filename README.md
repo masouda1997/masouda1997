@@ -32,12 +32,6 @@
    <a href="https://www.djangoproject.com/" target="_blank" rel="no-referrer">
      <img src="https://gitlab.com/uploads/-/system/project/avatar/31295677/pngwing.com__1_.png" alt="react" width="40" height="40"/> 
    </a>  
-   <a href="https://nextjs.org/" target="_blank" rel="no-referrer">
-     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next.js" width="40" height="40"/> 
-   </a>
-   <a href="https://threejs.org/" target="_blank" rel="no-referrer"> 
-     <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three js" width="40" height="40"/> 
-   </a> 
   </p>
    <p align="center">
     <a href="https://redux.js.org" target="_blank" rel="no-referrer"> 
@@ -69,9 +63,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>  
-     <a href="https://wordpress.org" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
-    </a>
+     <a href="https://nextjs.org/" target="_blank" rel="no-referrer">
+     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="next.js" width="40" height="40"/> 
+   </a> 
   </p>  
 </div>
 

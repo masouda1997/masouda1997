@@ -16,6 +16,10 @@
  # 💻 My Tech Stack 
 <div> 
   <p align="center"> 
+    <a href="https://www.python.org/" target="_blank" rel="no-referrer"> 
+     <img src="https://thumbnail.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ_t.jpg" alt="javascript" width="40" height="40"/>
+   </a>
+    
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="no-referrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>

@@ -1,17 +1,14 @@
-<!-- # 💫 About Me: -->
+# 💫 About Me: 
 Hi! I'm Masoud Anaraki, a Front-End Developer with a Bachelor's degree in IT Engineering. With 2 years of professional experience, I specialize in building responsive and dynamic web applications using JavaScript,React.js, Next.js, and TypeScript. Additionally, I am familiar with Node.js, Django, and MySQL, which enhances my ability to contribute to full-stack development projects.<br>Currently, I work as a Front-End Developer at Entekhab Industrial Group, collaborating with a talented team to deliver high-quality web solutions. My experience in teamwork and problem-solving enables me to create robust and scalable applications. I am passionate about continuous learning and thrive in dynamic environments that challenge me to grow and refine my skills.<br><br>Feel free to explore my projects and reach out if you'd like to collaborate!
 
 
 ### 🌐 Find Me Around Web:
-<a href="mailto:masoud.anaraki97@gmail.com"><img src="https://img.shields.io/badge/-masoud.anaraki97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a><br />
+<a href="mailto:masoud.anaraki97@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masoud-anaraki/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13231610) 
 
 ### 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)

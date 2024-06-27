@@ -1,4 +1,4 @@
-# 💫 Hi guys I'm Masoud: 
+# 💫 Hi guys I'm Masoud : 
 Hi! I'm Masoud Anaraki, a Front-End Developer with a Bachelor's degree in IT Engineering. With 2 years of professional experience, I specialize in building responsive and dynamic web applications using JavaScript,React.js, Next.js, and TypeScript. Additionally, I am familiar with Node.js, Django, and MySQL, which enhances my ability to contribute to full-stack development projects.<br>Currently, I work as a Front-End Developer at Entekhab Industrial Group, collaborating with a talented team to deliver high-quality web solutions. My experience in teamwork and problem-solving enables me to create robust and scalable applications. I am passionate about continuous learning and thrive in dynamic environments that challenge me to grow and refine my skills.<br><br>Feel free to explore my projects and reach out if you'd like to collaborate!
 
 

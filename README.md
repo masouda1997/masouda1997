@@ -1,4 +1,4 @@
-# 💫 Hi guys I'm Masoud : 
+# 💫 Hi guys I'm Masoud  
 Hi! I'm Masoud Anaraki, a Front-End Developer with a Bachelor's degree in IT Engineering. With 2 years of professional experience, I specialize in building responsive and dynamic web applications using JavaScript,React.js, Next.js, and TypeScript. Additionally, I am familiar with Node.js, Django, and MySQL, which enhances my ability to contribute to full-stack development projects.<br>Currently, I work as a Front-End Developer at <strong>Entekhab Industrial Group</strong>, collaborating with a talented team to deliver high-quality web solutions. My experience in teamwork and problem-solving enables me to create robust and scalable applications. I am passionate about continuous learning and thrive in dynamic environments that challenge me to grow and refine my skills.<br><br>Feel free to explore my projects and reach out if you'd like to collaborate!
 
 
@@ -13,7 +13,6 @@ Hi! I'm Masoud Anaraki, a Front-End Developer with a Bachelor's degree in IT Eng
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

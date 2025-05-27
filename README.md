@@ -6,6 +6,10 @@ Hi! I'm Masoud Anaraki, a Front-End Developer with a Bachelor's degree in IT Eng
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masoud-anaraki/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13231610) 
 <a href="mailto:masoud.anaraki97@gmail.com"><img src="https://img.shields.io/badge/masoud.anaraki97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+```bash
+ npx masoud@latest
+```
+
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
